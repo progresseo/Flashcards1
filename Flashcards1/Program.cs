@@ -6,7 +6,7 @@ namespace Flashcards1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             MainMenu.Menu();
         }
     }
 }
